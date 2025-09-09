@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-SghssApplication<sghss>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.vidaplus.sghss.SghssApplication",
+      "projectName": "sghss",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
